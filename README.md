@@ -2,21 +2,36 @@
 analysis files for GCDP
 
 Fichiers s :
+
 Colonnes 1, 2, et 3: x, y, z en unités de 100 kpc.
+
 Colonnes 4, 5,et 6: vx, vy, vy en unités de 207.4 km/s
+
 Colonnes 7 et 8: m_p et Ms0_p - masse totale mtot de la particule en unités de 10*2 Msun (les deux valeurs devraient être identiques).
+
 Colonnes 9-17: masses m_He, m_C, m_N, m_O, m_Ne, m_Mg, m_Si, m_Fe, et masse totale en métaux m_Z, en masses solaires.
 colonne 18: zg_p (Z)
+
 Colonne 19: temps ts où la particule étoiles s'est formée (unités de 4.71e+08 ans)
+
 Colonnes 20 et 21: id et flagfd - labels pour identifier les particules.
+
 Colonne 22: t_n -t_s - age de la particule depuis sa formation.
+
 Colonne 23: rho_p
+
 Colonne 24: longueur d,adoucissement.
+
 Colonne 25: rhos_p
+
 Colonne 26: u_p
+
 Colonne 27: rp
+
 Colonne 28: vph
+
 Colonne 29: vr
+
 Colonne 30: thetap
 
 Fichiers g:
